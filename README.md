@@ -1,4 +1,4 @@
-# Prueba_Tecnica_Twitter
-Medir el impacto de una marca y acciones comerciales en Twitter
+# PRUEBA TÉCNICA TWITTER
 
-## Medir el impacto de una marca y acciones comerciales en Twitter
+## Objetivo
+### Medir el impacto de una marca y acciones comerciales en Twitter
